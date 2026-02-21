@@ -13,9 +13,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9B8E8?style=for-the-badge&logo=linkedin&logoColor=5B4A7A)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-F9C8D4?style=for-the-badge&logo=gmail&logoColor=7A3A4A)](mailto:YOUR-EMAIL)
-[![Discord](https://img.shields.io/badge/Discord-B8D8F9?style=for-the-badge&logo=discord&logoColor=3A5A7A)](https://discordapp.com/users/YOUR-DISCORD-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9B8E8?style=for-the-badge&logo=linkedin&logoColor=5B4A7A)](https://linkedin.com/in/abdul-rahman-rsa)
+[![Email](https://img.shields.io/badge/Email-F9C8D4?style=for-the-badge&logo=gmail&logoColor=7A3A4A)](mailto:arrsa1807@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-B8D8F9?style=for-the-badge&logo=discord&logoColor=3A5A7A)](https://discordapp.com/users/abu1807)
 [![GitHub](https://img.shields.io/badge/GitHub-D4EAC8?style=for-the-badge&logo=github&logoColor=3A5A3A)](https://github.com/AbdulRahman1807)
 
 </div>
