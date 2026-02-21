@@ -1,22 +1,22 @@
 <div align="center">
 
 ```
-███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗     
-████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║     
-██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║     
-██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║     
-██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗
-╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+ █████╗ ██████╗ ██████╗ ██╗   ██╗██╗         ██████╗  █████╗ ██╗  ██╗███╗   ███╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██║   ██║██║         ██╔══██╗██╔══██╗██║  ██║████╗ ████║██╔══██╗████╗  ██║
+███████║██████╔╝██║  ██║██║   ██║██║         ██████╔╝███████║███████║██╔████╔██║███████║██╔██╗ ██║
+██╔══██║██╔══██╗██║  ██║██║   ██║██║         ██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║
+██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗    ██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%7C+Optimization+%7C+Deployment;Building+Intelligent+Systems+from+Scratch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B5A4CF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Machine+Learning+%7C+Optimization+%7C+Deployment+%F0%9F%8C%B8;Web+Developer+%7C+Building+for+the+Browser+%F0%9F%8C%BF;Turning+Raw+Data+into+Real+Intelligence+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FFFF.svg?style=for-the-badge&logo=linkedin&logoColor=0A0A0A)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-%23FF00FF.svg?style=for-the-badge&logo=gmail&logoColor=0A0A0A)](mailto:YOUR-EMAIL)
-[![Discord](https://img.shields.io/badge/Discord-%237B2FFF.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR-DISCORD-ID)
-[![GitHub](https://img.shields.io/badge/GitHub-%2300FFFF.svg?style=for-the-badge&logo=github&logoColor=0A0A0A)](https://github.com/AbdulRahman1807)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9B8E8?style=for-the-badge&logo=linkedin&logoColor=5B4A7A)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-F9C8D4?style=for-the-badge&logo=gmail&logoColor=7A3A4A)](mailto:YOUR-EMAIL)
+[![Discord](https://img.shields.io/badge/Discord-B8D8F9?style=for-the-badge&logo=discord&logoColor=3A5A7A)](https://discordapp.com/users/YOUR-DISCORD-ID)
+[![GitHub](https://img.shields.io/badge/GitHub-D4EAC8?style=for-the-badge&logo=github&logoColor=3A5A3A)](https://github.com/AbdulRahman1807)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-## ⚡ `SYSTEM PROFILE` ⚡
+### ˚ ༘ ✶ `WHO AM I?` ✶ ༘ ˚
 
 </div>
 
@@ -32,66 +32,81 @@
 class AbdulRahman:
     def __init__(self):
         self.name        = "Abdul Rahman"
-        self.role        = "AI & Data Science Engineer"
-        self.focus       = ["ML Pipelines", "Model Optimization", "Deployment"]
-        self.language    = "Python"
-        self.philosophy  = "Data tells the truth — you just have to listen"
+        self.roles       = ["AI & Data Science Engineer", "Web Developer"]
+        self.focus       = ["ML Pipelines", "Model Optimization", "Deployment", "Web Apps"]
+        self.languages   = ["Python", "HTML", "CSS", "JavaScript"]
+        self.philosophy  = "Data tells the truth — you just have to listen 🌸"
 
     def current_mission(self):
-        return "Building end-to-end ML systems that go from raw data → production"
+        return [
+            "Building end-to-end ML systems: raw data → production",
+            "Crafting clean, purposeful web experiences",
+            "Bridging the gap between AI models and real users"
+        ]
 ```
 
 ---
 
 <div align="center">
 
-## 🧠 `TECHNICAL ARSENAL`
+## 🧠 `ARTIFICIAL INTELLIGENCE & DATA SCIENCE`
+
+*The core. The craft. The obsession.*
+
+</div>
+
+
+Every great ML project follows a disciplined path: **data ingestion → cleaning → feature engineering → model training → evaluation → deployment**. I build these pipelines end-to-end, ensuring reproducibility, scalability, and clean separation of concerns using `scikit-learn` `Pipeline` objects and `joblib` serialization.
+
+```
+  Raw Data  ──►  Cleaning  ──►  Feature Eng.  ──►  Training  ──►  Evaluation  ──►  🚀 Deploy
+     │               │                │                │                │
+  Nulls?          Encode           Select           Fit/CV           Metrics
+  Outliers?       Scale            Filter           Tune             Report
+  Types?          Split            Wrap             Serialize        Monitor
+```
+
+<div align="center">
+
+## 🌐 `WEB DEVELOPMENT`
+
+*Where intelligence meets interface.*
+
+</div>
+
+Web development is the bridge between powerful backend logic and the humans who use it. A great ML model needs a great interface — and that's where web skills come in.
+
+
+## 🛠️ `TECH STACK`
 
 </div>
 
 <div align="center">
 
-**── LANGUAGES ──**
+**── AI & DATA SCIENCE ──**
 
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00FFFF)
+![Python](https://img.shields.io/badge/Python-F9E8C8?style=for-the-badge&logo=python&logoColor=7A5A2A)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F9C8D4?style=for-the-badge&logo=scikitlearn&logoColor=7A2A3A)
+![XGBoost](https://img.shields.io/badge/XGBoost-C9B8E8?style=for-the-badge&logo=xgboost&logoColor=4A2A7A)
+![NumPy](https://img.shields.io/badge/NumPy-B8D8F9?style=for-the-badge&logo=numpy&logoColor=2A4A7A)
+![Pandas](https://img.shields.io/badge/Pandas-D4EAC8?style=for-the-badge&logo=pandas&logoColor=2A5A3A)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F9E4C8?style=for-the-badge&logo=plotly&logoColor=7A4A2A)
 
-**── MACHINE LEARNING ──**
+**── WEB DEVELOPMENT ──**
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=FF00FF)
-![XGBoost](https://img.shields.io/badge/XGBoost-0A0A0A?style=for-the-badge&logo=xgboost&logoColor=00FFFF)
-![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=00FFFF)
-![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=FF00FF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=plotly&logoColor=7B2FFF)
+![HTML5](https://img.shields.io/badge/HTML5-F9C8C8?style=for-the-badge&logo=html5&logoColor=7A2A2A)
+![CSS3](https://img.shields.io/badge/CSS3-C8D8F9?style=for-the-badge&logo=css3&logoColor=2A3A7A)
+![JavaScript](https://img.shields.io/badge/JavaScript-F9F0C8?style=for-the-badge&logo=javascript&logoColor=7A6A2A)
+![Streamlit](https://img.shields.io/badge/Streamlit-F9C8D4?style=for-the-badge&logo=streamlit&logoColor=7A2A3A)
 
-**── TOOLS & DEPLOYMENT ──**
+**── TOOLS ──**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-0A0A0A?style=for-the-badge&logo=streamlit&logoColor=FF00FF)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=00FFFF)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=7B2FFF)
-![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF)
-
-</div>
-
----
-
-<div align="center">
-
-## ⚙️ `CORE COMPETENCIES`
+![Git](https://img.shields.io/badge/Git-F9DCC8?style=for-the-badge&logo=git&logoColor=7A3A2A)
+![GitHub](https://img.shields.io/badge/GitHub-E8C8F9?style=for-the-badge&logo=github&logoColor=4A2A7A)
+![VS Code](https://img.shields.io/badge/VS_Code-C8EAF9?style=for-the-badge&logo=visualstudiocode&logoColor=2A5A7A)
+![Joblib](https://img.shields.io/badge/Joblib-D4F9C8?style=for-the-badge&logo=python&logoColor=3A6A2A)
 
 </div>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ◈  End-to-End Machine Learning Pipelines                          │
-│   ◈  Feature Selection — Filter & Wrapper Methods                   │
-│   ◈  Cross Validation & GridSearchCV Tuning                         │
-│   ◈  Supervised & Unsupervised Learning                             │
-│   ◈  Model Serialization with Joblib                                │
-│   ◈  Streamlit App Deployment                                       │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -101,29 +116,29 @@ class AbdulRahman:
 
 </div>
 
-### 〔 CORE SYSTEMS 〕
+### ✦ CORE SYSTEMS
 
 | Project | Description | Link |
 |:--------|:------------|:----:|
-| 🧬 **ML Portfolio** | Full data science pipeline showcase | [![Repo](https://img.shields.io/badge/VIEW-00FFFF?style=flat-square&logo=github&logoColor=black)](https://github.com/AbdulRahman1807/Data-Scientist) |
-| 🔬 **Feature Selection & CV** | Filter/Wrapper methods + GridSearchCV | [![Repo](https://img.shields.io/badge/VIEW-FF00FF?style=flat-square&logo=github&logoColor=black)](https://github.com/AbdulRahman1807/CV-Feature-Selection) |
+| 🧬 **ML Portfolio** | Full data science pipeline showcase | [![Repo](https://img.shields.io/badge/VIEW-C9B8E8?style=flat-square&logo=github&logoColor=4A2A7A)](https://github.com/AbdulRahman1807/Data-Scientist) |
+| 🔬 **Feature Selection & CV** | Filter/Wrapper methods + GridSearchCV | [![Repo](https://img.shields.io/badge/VIEW-F9C8D4?style=flat-square&logo=github&logoColor=7A2A3A)](https://github.com/AbdulRahman1807/CV-Feature-Selection) |
 
-### 〔 CLUSTERING ALGORITHMS 〕
-
-| Project | Description | Link |
-|:--------|:------------|:----:|
-| 🌀 **K-Means Clustering** | Centroid-based partitioning | [![Repo](https://img.shields.io/badge/VIEW-00FFFF?style=flat-square&logo=github&logoColor=black)](https://github.com/AbdulRahman1807/K-Means-Cluster) |
-| 🌿 **Hierarchical Clustering** | Agglomerative tree-based grouping | [![Repo](https://img.shields.io/badge/VIEW-FF00FF?style=flat-square&logo=github&logoColor=black)](https://github.com/AbdulRahman1807/Hierarchical-Clustering) |
-| 🔭 **DBSCAN** | Density-based anomaly-aware clustering | [![Repo](https://img.shields.io/badge/VIEW-7B2FFF?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdulRahman1807/dbscan) |
-
-### 〔 SUPERVISED LEARNING 〕
+### ✦ CLUSTERING ALGORITHMS
 
 | Project | Description | Link |
 |:--------|:------------|:----:|
-| 📈 **Linear Regression** | Continuous value prediction | [![Repo](https://img.shields.io/badge/VIEW-00FFFF?style=flat-square&logo=github&logoColor=black)](https://github.com/AbdulRahman1807/Linear-Regression) |
-| 🎯 **Logistic Regression** | Binary classification modeling | [![Repo](https://img.shields.io/badge/VIEW-FF00FF?style=flat-square&logo=github&logoColor=black)](https://github.com/AbdulRahman1807/Logistic-Regression) |
-| 🌲 **Random Forest** | Ensemble tree classification | [![Repo](https://img.shields.io/badge/VIEW-7B2FFF?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdulRahman1807/Random-Forest-Classification) |
-| ⚡ **XGBoost Classifier** | Gradient boosted extreme classification | [![Repo](https://img.shields.io/badge/VIEW-00FFFF?style=flat-square&logo=github&logoColor=black)](https://github.com/AbdulRahman1807/XGBClassifier) |
+| 🌀 **K-Means Clustering** | Centroid-based partitioning | [![Repo](https://img.shields.io/badge/VIEW-B8D8F9?style=flat-square&logo=github&logoColor=2A4A7A)](https://github.com/AbdulRahman1807/K-Means-Cluster) |
+| 🌿 **Hierarchical Clustering** | Agglomerative tree-based grouping | [![Repo](https://img.shields.io/badge/VIEW-D4EAC8?style=flat-square&logo=github&logoColor=2A5A3A)](https://github.com/AbdulRahman1807/Hierarchical-Clustering) |
+| 🔭 **DBSCAN** | Density-based anomaly-aware clustering | [![Repo](https://img.shields.io/badge/VIEW-F9E8C8?style=flat-square&logo=github&logoColor=7A5A2A)](https://github.com/AbdulRahman1807/dbscan) |
+
+### ✦ SUPERVISED LEARNING
+
+| Project | Description | Link |
+|:--------|:------------|:----:|
+| 📈 **Linear Regression** | Continuous value prediction | [![Repo](https://img.shields.io/badge/VIEW-C9B8E8?style=flat-square&logo=github&logoColor=4A2A7A)](https://github.com/AbdulRahman1807/Linear-Regression) |
+| 🎯 **Logistic Regression** | Binary classification modeling | [![Repo](https://img.shields.io/badge/VIEW-F9C8D4?style=flat-square&logo=github&logoColor=7A2A3A)](https://github.com/AbdulRahman1807/Logistic-Regression) |
+| 🌲 **Random Forest** | Ensemble tree classification | [![Repo](https://img.shields.io/badge/VIEW-D4EAC8?style=flat-square&logo=github&logoColor=2A5A3A)](https://github.com/AbdulRahman1807/Random-Forest-Classification) |
+| ⚡ **XGBoost Classifier** | Gradient boosted extreme classification | [![Repo](https://img.shields.io/badge/VIEW-B8D8F9?style=flat-square&logo=github&logoColor=2A4A7A)](https://github.com/AbdulRahman1807/XGBClassifier) |
 
 ---
 
@@ -131,10 +146,10 @@ class AbdulRahman:
 
 ## 📊 `GITHUB STATS`
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman1807&show_icons=true&theme=chartreuse-dark&bg_color=0A0A0A&border_color=00FFFF&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF&hide_border=false" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRahman1807&theme=chartreuse-dark&background=0A0A0A&border=00FFFF&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman1807&show_icons=true&theme=rose_pine&bg_color=1C1B22&border_color=C9B8E8&title_color=C9B8E8&text_color=E8E0F0&icon_color=F9C8D4&hide_border=false" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRahman1807&theme=rose-pine&background=1C1B22&border=C9B8E8&ring=F9C8D4&fire=F9C8D4&currStreakLabel=C9B8E8" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman1807&layout=compact&theme=chartreuse-dark&bg_color=0A0A0A&border_color=00FFFF&title_color=00FFFF&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman1807&layout=compact&theme=rose_pine&bg_color=1C1B22&border_color=C9B8E8&title_color=C9B8E8&text_color=E8E0F0" width="49%" />
 
 </div>
 
@@ -142,9 +157,9 @@ class AbdulRahman:
 
 <div align="center">
 
-## 🌐 `ACTIVITY GRID`
+## 🌿 `ACTIVITY`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRahman1807&bg_color=0A0A0A&color=00FFFF&line=FF00FF&point=7B2FFF&area=true&hide_border=false&border_color=00FFFF" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRahman1807&bg_color=1C1B22&color=C9B8E8&line=F9C8D4&point=D4EAC8&area=true&hide_border=false&border_color=C9B8E8" width="98%" />
 
 </div>
 
@@ -153,15 +168,16 @@ class AbdulRahman:
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║   "The goal is to turn data into information,        ║
-║    and information into insight."                    ║
-║                              — Carly Fiorina         ║
-╚══════════════════════════════════════════════════════╝
+ ╭─────────────────────────────────────────────────────────────╮
+ │                                                             │
+ │   "Without data, you're just another person                 │
+ │    with an opinion."           — W. Edwards Deming  🌸      │
+ │                                                             │
+ ╰─────────────────────────────────────────────────────────────╯
 ```
 
-**⚡ Powered by curiosity. Refined by data. Deployed with purpose. ⚡**
+*˚ ༘ ✶ Built with curiosity · Refined by data · Deployed with purpose ✶ ༘ ˚*
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbdulRahman1807&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AbdulRahman1807&color=C9B8E8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
