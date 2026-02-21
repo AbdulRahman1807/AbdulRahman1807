@@ -116,6 +116,9 @@ Web development is the bridge between powerful backend logic and the humans who 
 
 </div>
 
+<div align="center">
+
+ 
 ### ✦ CORE SYSTEMS
 
 | Project | Description | Link |
@@ -139,6 +142,8 @@ Web development is the bridge between powerful backend logic and the humans who 
 | 🎯 **Logistic Regression** | Binary classification modeling | [![Repo](https://img.shields.io/badge/VIEW-F9C8D4?style=flat-square&logo=github&logoColor=7A2A3A)](https://github.com/AbdulRahman1807/Logistic-Regression) |
 | 🌲 **Random Forest** | Ensemble tree classification | [![Repo](https://img.shields.io/badge/VIEW-D4EAC8?style=flat-square&logo=github&logoColor=2A5A3A)](https://github.com/AbdulRahman1807/Random-Forest-Classification) |
 | ⚡ **XGBoost Classifier** | Gradient boosted extreme classification | [![Repo](https://img.shields.io/badge/VIEW-B8D8F9?style=flat-square&logo=github&logoColor=2A4A7A)](https://github.com/AbdulRahman1807/XGBClassifier) |
+
+</div>
 
 ---
 
